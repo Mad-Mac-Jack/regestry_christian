@@ -6,12 +6,12 @@ const nextConfig = {
   env: {
     name: 'Kasm Technologies',
     description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
+    icon: `${basePath}/img/logo.svg`,
     listUrl: 'https://mad-mac-jack.github.io/workspaces_registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
-  basePath: '/workspaces_registry/1.1',
+  listUrl: `https://mad-mac-jack.github.io${basePath}/`,
   trailingSlash: true,
   images: {
     unoptimized: true,
@@ -19,3 +19,5 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+  
+  
