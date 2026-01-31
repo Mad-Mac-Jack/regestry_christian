@@ -4,8 +4,8 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Wenzel Medical Systems',
+    description: 'Wo ich mein Zeug habe',
     icon: 'https://doctorfree.github.io/regestry_christian/1.1/sp2.png',
     listUrl: 'https://mad-mac-jack.github.io/regestry_christian/',
     contactUrl: 'https://kasmweb.com/support',
