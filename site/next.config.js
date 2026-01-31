@@ -7,11 +7,11 @@ const nextConfig = {
     name: 'Kasm Technologies',
     description: 'The official store for Kasm supported workspaces.',
     icon: `${basePath}/img/logo.svg`,
-    listUrl: 'https://mad-mac-jack.github.io/workspaces_registry/',
+    listUrl: 'https://mad-mac-jack.github.io/regestry_christian/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
-  listUrl: `https://mad-mac-jack.github.io${basePath}/`,
+  basePath: '/kasm-regestry_christian/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
