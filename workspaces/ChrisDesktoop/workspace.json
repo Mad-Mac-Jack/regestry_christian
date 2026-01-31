@@ -1,8 +1,7 @@
-
-  {
-  "friendly_name": "Ubuntu Jammy Dev",
+{
+  "friendly_name": "Christian Ubuntu Jammy Dev",
   "description": "Ubuntu Jammy Desktop mit Git, GitHub Desktop und Notepadqq",
-  "image_src": "chromium.png",
+  "image_src": "christian_desk.png",
   "architecture": ["amd64"],
   "categories": ["Development"],
   "compatibility": [
