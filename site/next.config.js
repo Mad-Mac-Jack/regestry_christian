@@ -6,7 +6,7 @@ const nextConfig = {
   env: {
     name: 'Kasm Technologies',
     description: 'The official store for Kasm supported workspaces.',
-    icon: `${basePath}/img/logo.svg`,
+    icon: 'https://doctorfree.github.io/regestry_christian/1.0/sp2.png',
     listUrl: 'https://mad-mac-jack.github.io/regestry_christian/',
     contactUrl: 'https://kasmweb.com/support',
   },
