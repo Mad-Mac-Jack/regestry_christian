@@ -1,6 +1,6 @@
 {
   "friendly_name": "Christian Ubuntu Jammy Dev",
-  "description": "Ubuntu Jammy Desktop mit Git, GitHub Desktop und Notepq",
+  "description": "Ubuntu Jammy Desktop mit Git, GitHub Desktop und No1epq",
   "image_src": "christian_desk.png",
   "architecture": ["amd64"],
   "categories": ["Development"],
@@ -9,7 +9,7 @@
       "version": "1.18.x",
       "image": "inpwos4dh/kasm-ubuntu-jammy-dev:1.0",
       "uncompressed_size_mb": 13000,
-      "available_tags": ["1.0"]
+      "available_tags": ["1.1","1.3"]
     }
   ]
 }
