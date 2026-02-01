@@ -4,7 +4,7 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Wenzel Medical Systems',
+    name: 'Wenzel Medical  Systems',
     description: 'Wo ich mein Zeug habe',
     icon: 'https://mad-mac-jack.github.io/regestry_christian/1.1/logo_kasm_viewer.png',
     listUrl: 'https://mad-mac-jack.github.io/regestry_christian/',
