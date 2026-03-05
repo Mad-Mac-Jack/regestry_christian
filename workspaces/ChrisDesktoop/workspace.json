@@ -27,7 +27,7 @@
     {
       "version": "1.18.x",
       "image": "inpwos4dh/christian_kasm_desktops:1.0",
-      "uncompressed_size_mb": 8572,
+      "uncompressed_size_mb": 37000,
       "available_tags": [
         "1.0"
       ]
