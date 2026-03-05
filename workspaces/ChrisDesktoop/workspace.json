@@ -1,7 +1,7 @@
 {
   "friendly_name": "Ubuntu Jammy",
   "image_src": "christian_desk.png",
-  "description": "Ubuntu is a Linux distribution based on Debian.",
+  "description": "Mein Desktop",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
@@ -25,32 +25,6 @@
   ],
   "compatibility": [
     {
-      "version": "1.16.x",
-      "image": "kasmweb/ubuntu-jammy-desktop:1.16.1-rolling-daily",
-      "uncompressed_size_mb": 4446,
-      "available_tags": [
-        "develop",
-        "1.16.0",
-        "1.16.0-rolling-weekly",
-        "1.16.0-rolling-daily",
-        "1.16.1",
-        "1.16.1-rolling-weekly",
-        "1.16.1-rolling-daily",
-        "1.17.0-rolling-weekly"
-      ]
-    },
-    {
-      "version": "1.17.0",
-      "image": "kasmweb/ubuntu-jammy-desktop:1.17.0-rolling-daily",
-      "uncompressed_size_mb": 8572,
-      "available_tags": [
-        "develop",
-        "1.17.0",
-        "1.17.0-rolling-weekly",
-        "1.17.0-rolling-daily"
-      ]
-    },
-    {
       "version": "1.18.x",
       "image": "kasmweb/ubuntu-jammy-desktop:1.18.0-rolling-daily",
       "uncompressed_size_mb": 8572,
@@ -59,14 +33,6 @@
         "1.18.0",
         "1.18.0-rolling-weekly",
         "1.18.0-rolling-daily"
-      ]
-    },
-    {
-      "version": "1.19.0",
-      "image": "kasmweb/ubuntu-jammy-desktop:1.19.0-develop",
-      "uncompressed_size_mb": 0,
-      "available_tags": [
-        "develop"
       ]
     }
   ]
