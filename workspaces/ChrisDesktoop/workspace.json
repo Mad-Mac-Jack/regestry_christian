@@ -29,14 +29,8 @@
       "image": "kasmweb/ubuntu-jammy-desktop:1.16.1-rolling-daily",
       "uncompressed_size_mb": 4446,
       "available_tags": [
-        "develop",
-        "1.16.0",
-        "1.16.0-rolling-weekly",
-        "1.16.0-rolling-daily",
-        "1.16.1",
-        "1.16.1-rolling-weekly",
-        "1.16.1-rolling-daily",
-        "1.17.0-rolling-weekly"
+        "latest",
+        "1.0"
       ]
     },
     {
@@ -56,14 +50,6 @@
       "uncompressed_size_mb": 37000,
       "available_tags": [
         "1.0"
-      ]
-    },
-    {
-      "version": "1.19.0",
-      "image": "kasmweb/ubuntu-jammy-desktop:1.19.0-develop",
-      "uncompressed_size_mb": 0,
-      "available_tags": [
-        "develop"
       ]
     }
   ]
