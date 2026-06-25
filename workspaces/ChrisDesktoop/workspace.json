@@ -24,6 +24,15 @@
   ],
   "compatibility": [
     {
+      "version": "1.17.x",
+      "image": "inpwos4dh/christian_kasm_desktops:latest",
+      "uncompressed_size_mb": 37000,
+      "available_tags": [
+        "latest"
+      ]
+
+    },
+    {
       "version": "1.18.x",
       "image": "inpwos4dh/christian_kasm_desktops:latest",
       "uncompressed_size_mb": 37000,
